@@ -2,8 +2,6 @@
 
 # Sandesh-Cybersecurity-Portfolio
 > Azure: Create a Virtual Machine and Deploy a Web Server. Please visit this [link](https://coursera.org/share/24436e6d0a57e709ff0a33bf569d8ce1) for further information. More are to come, stay tuned!
-
-> Please make sure you include the original MIT license.
  
 ## Professional Statements
 I am Sandesh Kumar. I am an Senior Application Support Analyst at Scotiabank. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), and cyber security support.  
