@@ -11,7 +11,7 @@ Recently, I completed the Google IT Support and Cybersecurity Professional Certi
 As of 2025, I am preparing to take the `Certified Information Systems Security Professional (CISSP)`, Certified in `CompTIA Security+` certifications 2024.
 
 ## Portfolio
-> Please visit this [link]([https://www.coursera.org/professional-certificates/google-cybersecurity](https://www.credly.com/badges/c9b88c35-9a32-40a3-a03d-37e8fc442570/public_url) for further information.
+> Please visit this [(https://www.credly.com/badges/c9b88c35-9a32-40a3-a03d-37e8fc442570/public_url)] for further information.
 
 > Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
