@@ -1,6 +1,7 @@
-<h1>Hi, I'm Sandesh! <br/><a href="https://github.com/securesandesh"></a> <a href="https://www.linkedin.com/in/sandesh2/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Sandesh! <br/><a href="https://github.com/securesandesh"></a> <a href="https://www.linkedin.com/in/sandesh2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> Cybersecurity Professional</a></h1>
 
 # Sandesh-Cybersecurity-Portfolio
+I am a recent CompTIA Security + Certified with a profound interest in technology and a dedication to solving complex problems. My journey in Cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 > Azure: Create a Virtual Machine and Deploy a Web Server. Please visit this [link](https://coursera.org/share/24436e6d0a57e709ff0a33bf569d8ce1) for further information. More are to come, stay tuned!
  
 ## Professional Statements
@@ -52,17 +53,6 @@ Please have a look on other standalone portfolio that I published:
 * Python - Cybersecurity - [Transaction Fraud](https://github.com/Kwangsa19/Python-Cybersecurity-Transaction-Fraud) 
 * Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](https://github.com/Kwangsa19/Cybersecurity-Investigation-Risk-Report)
 
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
