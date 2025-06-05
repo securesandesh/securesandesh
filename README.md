@@ -13,8 +13,6 @@ As of 2025, I am preparing to take the `Certified Information Systems Security P
 ## Portfolio
 > Please visit this [(https://www.credly.com/badges/c9b88c35-9a32-40a3-a03d-37e8fc442570/public_url)] for further information.
 
-> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
-
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
 * Programming for cybersecurity tasks
 * Frameworks and controls that inform security operations
